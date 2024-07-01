@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavita8441
 - 👀 I’m interested in Software Deveploment 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently learning .Net development 
+- 💞️ I’m looking to collaborate with .Net developer 
 - 📫 How to reach me ...
 
 <!---
